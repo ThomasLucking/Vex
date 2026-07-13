@@ -1,4 +1,5 @@
 # Vex
+**This project will be continued on the 25th of July.**
 
 A local-first RAG (Retrieval-Augmented Generation) application. React frontend, Python/FastAPI backend, Postgres + pgvector for vector storage, and a local LLM served via Ollama — running entirely on a Mac Mini M1 (16GB unified memory).
 
