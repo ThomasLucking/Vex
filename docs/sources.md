@@ -1,4 +1,4 @@
-A:x# RAG Learning Sources — Python (FastAPI) + React + pgvector + Ollama
+RAG Learning Sources — Python (FastAPI) + React + pgvector + Ollama
 
 Curated, verified-live sources for building and *understanding* a RAG system with this stack. Each link includes what it teaches, why it's the right source, and a specific detail worth remembering.
 
